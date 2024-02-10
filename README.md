@@ -12,7 +12,9 @@
 <br>
 <br>
 </h3>
-💬 Little bit from my Skills **HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions ...**
+💬 Little bit from my Skills
+
+**HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions ...**
 <br>
 <br>
 
@@ -47,21 +49,22 @@
 <a href="https://learn.microsoft.com/de-de/training/" target="_blank" rel="noreferrer"> <img src="./assets/microsoft.png" alt="microsoft learn" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/de-de/microsoft-cloud" target="_blank" rel="noreferrer"> <img src="./assets/cloud.png" alt="MS Cloud" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/de-de/" target="_blank" rel="noreferrer"> <img src="./assets/azure.png" alt="MS Azure" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./assets/visual-studio-code.png" alt="VS Code" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="40" height="40"/> </a> 
-<a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./assets/visual-studio-code.png" alt="VS Code" width="36" height="36"/> </a> 
+<a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="36" height="36"/> </a> 
+<a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a> 
 </p>
 <br>
 <br>
 <h2 align="center">You want to Connect</h2>
 <p align="center">
 <a href="mailto:GumbleCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
-<a href="https://github.com/GumblCode" target="_blank"><img align="center" src="./assets/github.png" alt="" height="60" width="60" /></a>
 </p>
 <br>
 <br>
 <br>
 <br>
 <br>
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for visit my Profile" alt="thanks for your visit" ></a></h2>   
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for visit my Profile" alt="thanks for your visit" ></a></h2>  
+<p align="center"><p href="![](https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=1000)" alt="Visits" ></p>
+ 
 <a align="center" ><img alt="" width="100%" height="100px" src="./assets/footer.jpg"></a>
