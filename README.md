@@ -64,4 +64,4 @@
 <br>
 <br>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for visit my Profile" alt="thanks for your visit" ></a></h2>   
-<a align="center" ><img alt="" width="100%" height="100px" src="./assets/footer.gif"></a>
+<a align="center" ><img alt="" width="100%" height="100px" src="./assets/footer.jpg"></a>
