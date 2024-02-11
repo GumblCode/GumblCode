@@ -7,20 +7,19 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="200" height="250" src="./assets/PcUC.gif" />
-<p align="center">
+<h3 align="center">
 🌱It's fun to constantly improve my Codeing Skills<br>learn and make new Projects
 <br>
-<br>
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
 💬 Little bit from my Skills<br>
 HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions...
 <br>
 <br>
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
 🖥️ Web Developer & Freelancer at RVwebDev
-</p>
+</h3>
 <br>
 <br>
 <br>
