@@ -7,19 +7,20 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="200" height="250" src="./assets/PcUC.gif" />
-<center>
+<p align="center">
 🌱It's fun to constantly improve my Codeing Skills<br>learn and make new Projects
 <br>
 <br>
-
+</p>
+<p align="center">
 💬 Little bit from my Skills<br>
-**HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions ...**
+HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions...
 <br>
 <br>
-
-🖥️ **Web Developer** and **Freelancer** at **RVwebDev**
-
-</center>
+</p>
+<p align="center">
+🖥️ Web Developer & Freelancer at RVwebDev
+</p>
 <br>
 <br>
 <br>
@@ -54,7 +55,6 @@
 <a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="36" height="36"/> </a> 
 <a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a></p>
 <br>
-<h2 align="center">My Graph</h2>
 <br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
