@@ -7,20 +7,19 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="200" height="250" src="./assets/PcUC.gif" />
-
-<h3>
-🌱 It's Fun to constantly improve my Skills and learn new Things
+<center>
+🌱It's fun to constantly improve my Codeing Skills<br>learn and make new Projects
 <br>
 <br>
-</h3>
-💬 Little bit from my Skills
 
+💬 Little bit from my Skills<br>
 **HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions ...**
 <br>
 <br>
 
 🖥️ **Web Developer** and **Freelancer** at **RVwebDev**
 
+</center>
 <br>
 <br>
 <br>
