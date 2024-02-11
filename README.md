@@ -25,6 +25,7 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
 <br>
 <h2 align="center">My TechStack</h2>
 <br>
+<br>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="./assets/html5.png" alt="HTML5" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
@@ -55,6 +56,7 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
 <a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a></p>
 <br>
 <br>
+<br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
     </p>
@@ -65,8 +67,6 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
 <p align="center">
 <a href="mailto:GumbleCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
 </p>
-<br>
-<br>
 <br>
 <br>
 <br>
