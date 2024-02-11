@@ -1,11 +1,12 @@
-<div align="center" ><img alt="" width="100%" height="150px" src="./assets/header.gif"></div>
+<a align="center" ><img alt="" width="100%" height="150px" src="./assets/header.gif"></a>
+
 <h2 align="center">Willkommen Servus Hello Ciao Salut<br />
 				Salve Hola Konnichiwa Bonjour Namaste</h2>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Arial&color=E2E1E1&size=45&pause=200&center=true&vCenter=true&width=500&lines=I'm Rainer I am; Web Developer; FullStack Developer; Web Designer; Solution Architect;" alt=""></a></h2>
 <h3 align="center">I am living near Nürnberg Bavaria, Germany</h3>
 <br>
 <br>
-<img align="right" alt="Coding" width="300" src="./assets/BhwI.gif" />
+<img align="right" alt="Coding" width="200" height="250" src="./assets/PcUC.gif" />
 
 <h3>
 🌱 It's Fun to constantly improve my Skills and learn new Things
@@ -24,6 +25,7 @@
 <br>
 <br>
 <h2 align="center">My TechStack</h2>
+<br>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="./assets/html5.png" alt="HTML5" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
@@ -51,11 +53,17 @@
 <a href="https://azure.microsoft.com/de-de/" target="_blank" rel="noreferrer"> <img src="./assets/azure.png" alt="MS Azure" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./assets/visual-studio-code.png" alt="VS Code" width="36" height="36"/> </a> 
 <a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="36" height="36"/> </a> 
-<a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a> 
-</p>
+<a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a></p>
 <br>
+<h2 align="center">My Graph</h2>
 <br>
-<h2 align="center">You want to Connect</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
+    </p>
+<br>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true" ></p>
+<br>
+<h2 align="center">You want to connect</h2>
 <p align="center">
 <a href="mailto:GumbleCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
 </p>
@@ -64,7 +72,9 @@
 <br>
 <br>
 <br>
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for visit my Profile" alt="thanks for your visit" ></a></h2>  
-<p align="center"><p href="![](https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=1000)" alt="Visits" ></p>
- 
-<a align="center" ><img alt="" width="100%" height="100px" src="./assets/footer.jpg"></a>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for your visit" alt="thanks for your visit" ></a></h2>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=1000" alt="Visits GumbleCode" ></p>
+ <br>
+<br>  
+<a align="center" ><img alt="" width="100%" height="150px" src="./assets/footer.jpg"></a>
