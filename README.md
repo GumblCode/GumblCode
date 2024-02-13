@@ -62,7 +62,7 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true" ></p>
 <h2 align="center">You want to connect</h2>
 <p align="center">
-<a href="mailto:GumbleCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
+<a href="mailto:GumblCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
 </p>
 <br>
 <br>
