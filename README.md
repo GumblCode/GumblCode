@@ -55,18 +55,18 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
 <a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="36" height="36"/> </a> 
 <a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a></p>
 <br>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
     </p>
 <br>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true" ></p>
+<p align="center"><a href=""><img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true" ></p>
 <h2 align="center">You want to connect</h2>
 <p align="center">
 <a href="mailto:GumblCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
 </p>
 <br>
 <br>
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for your visit" alt="thanks for your visit" ></a></h2>
+<h2 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for your visit" alt="thanks for your visit" ></a></h2>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=1000" alt="Visits GumbleCode" ></p>
  <br>
