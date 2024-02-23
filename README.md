@@ -18,7 +18,7 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
 <br>
 </h3>
 <h3 align="center">
-🖥️ Web Developer & Freelancer at RVwebDev
+🖥️ Web Developer & Freelancer
 </h3>
 <br>
 <br>
