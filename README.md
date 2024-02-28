@@ -3,17 +3,18 @@
 <h2 align="center">Willkommen Servus Hello Ciao Salut<br />
 				Salve Hola Konnichiwa Bonjour Namaste</h2>
 <h2 align="center"><a href="https://github.com/GumblCode"><img src="https://readme-typing-svg.demolab.com/?font=Arial&color=E2E1E1&size=45&pause=200&center=true&vCenter=true&width=500&lines=I'm Rainer I am; Web Developer; Web Designer; Solution Architect;" alt=""></a></h2>
-<h3 align="center">I living near Nürnberg Bavaria, Germany</h3>
+<h3 align="center">I'm living near Nürnberg Bavaria, Germany</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="200" height="250" src="./assets/PcUC.gif" />
 <h3 align="center">
-🌱It's fun to constantly improve my Codeing Skills<br>learn and make new Projects
+🌱It's fun to constantly improve my Coding Skills
+Learn and make new projects
 <br>
 </h3>
 <h3 align="center">
-💬 Little bit from my Skills<br>
-HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions...
+💬 Little bit from my Skills
+HTML5, CSS3, Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions... 
 <br>
 <br>
 </h3>
