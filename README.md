@@ -59,7 +59,7 @@ HTML5, CSS3 and Javascript and more like Web Development, Webdesign, responsive 
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
     </p>
 <br>
-<p align="center"><a href="https://github.com/GumblCode"><img src="https://github-profile-trophy.vercel.app/?username=GumblCode&=ryo-ma&theme=oldie&no-bg=true&no-frame=true=ryo-ma&margin-h=15" ></p>
+<p align="center"><a href="https://github.com/GumblCode"><img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true&margin-h=15rank=-C" ></p>
 <h2 align="center">You want to connect</h2>
 <p align="center">
 <a href="mailto:GumblCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
