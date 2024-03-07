@@ -25,8 +25,6 @@ HTML5, CSS3, Javascript and more like Web Development, Webdesign, responsive Web
 <br>
 <br>
 <h2 align="center">My TechStack</h2>
-<br>
-<br>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="./assets/html5.png" alt="HTML5" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
