@@ -33,8 +33,6 @@ HTML5, CSS3, Javascript and more like Web Development, Webdesign, responsive Web
 <img src="./assets/javascript.png" alt="JavaScript" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="./assets/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="./assets/tailwindcss.png" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank" rel="noreferrer"> <img src="./assets/responsive.png" alt="responsive" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 <img src="./assets/nodejs-icon64x64.png" alt="node.js" width="40" height="40"/> </a> 
