@@ -65,6 +65,6 @@ HTML5, CSS3, Javascript and more like Web Development, Webdesign, responsive Web
 <br>
 <h2 align="center"><a href="https://github.com/GumblCode"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&pause=1000&color=E2E1E1&center=true&vCenter=true&width=435&lines=Thanks for your visit" alt="thanks for your visit" ></a></h2>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=1000" alt="Visits GumbleCode" ></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=0" alt="Visits GumbleCode" ></p>
  <br>
 <a align="center" ><img alt="" width="100%" height="150px" src="./assets/footer.jpg"></a>
