@@ -50,7 +50,6 @@ HTML5, CSS3, Javascript and more like Web Development, Webdesign, responsive Web
 <a href="https://www.microsoft.com/de-de/microsoft-cloud" target="_blank" rel="noreferrer"> <img src="./assets/cloud.png" alt="MS Cloud" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/de-de/" target="_blank" rel="noreferrer"> <img src="./assets/azure.png" alt="MS Azure" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="36" height="36"/> </a> 
-<a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="./assets/webflow.png" alt="Webflow" width="36" height="36"/> </a></p>
 <br>
 <p align="center"><a href="https://github.com/GumblCode">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
