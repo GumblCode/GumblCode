@@ -1,6 +1,6 @@
 <a align="center" ><img alt="" width="100%" height="150px" src="./assets/header.gif"></a>
 
-<h2 align="center">Willkommen Servus Hello Ciao Salut<br />
+<h2 align="center">Hello Willkommen Servus Ciao Salut<br />
 				Salve Hola Konnichiwa Bonjour Namaste</h2>
 <h2 align="center"><a href="https://github.com/GumblCode"><img src="https://readme-typing-svg.demolab.com/?font=Arial&color=E2E1E1&size=45&pause=200&center=true&vCenter=true&width=500&lines=I'm Rainer I am; Web Developer; Web Designer; Solution Architect;" alt=""></a></h2>
 <h3 align="center">I'm from Nürnberg Bavaria, Germany</h3>
