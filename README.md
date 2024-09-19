@@ -13,8 +13,7 @@ Learn and make new projects
 <br>
 </h3>
 <h3 align="center">
-💬 Little bit from my Skills
-HTML5, CSS3, Javascript and more like Web Development, Webdesign, responsive Web and also Backend Solutions... 
+💬 I like Web Development, Webdesign, Responsive Web and also Backend Solutions... 
 <br>
 <br>
 </h3>
