@@ -8,17 +8,16 @@
 <br>
 <img align="right" alt="Coding" width="200" height="250" src="./assets/PcUC.gif" />
 <h3 align="center">
-🌱It's fun to constantly improve my Coding Skills
-Learn and make new projects
+🌱It's fun to constantly improve my coding skills, learn, and make new projects.
 <br>
 </h3>
 <h3 align="center">
-💬 I like Web Development, Webdesign, Responsive Web and also Backend Solutions... 
+💬 I like web development, web design, responsive web, and also backend solutions… 
 <br>
 <br>
 </h3>
 <h3 align="center">
-🖥️ I like Web Development
+🖥️ I like web development.
 </h3>
 <br>
 <br>
