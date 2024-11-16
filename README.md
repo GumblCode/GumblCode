@@ -17,7 +17,7 @@
 <br>
 </h3>
 <h3 align="center">
-🖥️ I like web development
+🖥️ I am web developer
 </h3>
 <br>
 <br>
