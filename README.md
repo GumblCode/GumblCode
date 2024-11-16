@@ -56,7 +56,7 @@
     </p>
 <br>
 <p align="center"><a href="https://github.com/GumblCode"><img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true&margin-h10&rank=-?,-C" ></p>
-<h2 align="center">You want to connect</h2>
+<a href="mailto:GumblCode@gmail.com" target="_blank"><h2 align="center">You want to connect</h2></a>
 <p align="center">
 <a href="mailto:GumblCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
 </p>
