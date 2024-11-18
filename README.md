@@ -45,8 +45,8 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./assets/postman64x64.png" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/docker.png" alt="docker" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/de-de/training/" target="_blank" rel="noreferrer"> <img src="./assets/microsoft.png" alt="microsoft learn" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/de-de/microsoft-cloud" target="_blank" rel="noreferrer"> <img src="./assets/cloud.png" alt="MS Cloud" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/de-de/training/" target="_blank" rel="noreferrer"> <img src="./assets/microsoft.png" alt="microsoft learn" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/de-de/" target="_blank" rel="noreferrer"> <img src="./assets/azure.png" alt="MS Azure" width="40" height="40"/> </a> 
 <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/google-analytics.png" alt="Google Analytics" width="36" height="36"/> </a> 
 <a href="https://www.figma.com/de/" target="_blank" rel="noreferrer"> <img src="./assets/figma.png" alt="Figma" width="36" height="36"/> </a> 
