@@ -32,16 +32,16 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="./assets/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank" rel="noreferrer"> <img src="./assets/responsive.png" alt="responsive" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-<img src="./assets/nodejs-icon64x64.png" alt="node.js" width="40" height="40"/> </a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-<img src="./assets/npm-wordmark64x64.png" alt="npm" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/visual-studio-code.png" alt="VS Code" width="36" height="36"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/git.png" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/github64.png" alt="Github" width="40" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/npm-wordmark64x64.png" alt="npm" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+<img src="./assets/nodejs-icon64x64.png" alt="node.js" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./assets/postman64x64.png" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/docker.png" alt="docker" width="40" height="40"/> </a> 
