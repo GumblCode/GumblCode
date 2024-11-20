@@ -12,7 +12,7 @@
 <br>
 </h3>
 <h3 align="center">
-💬 I like web development, web design, responsive web, and also backend solutions
+💬 I like web and app development, frontend and also backend solutions
 <br>
 <br>
 </h3>
