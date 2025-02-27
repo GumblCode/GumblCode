@@ -2,7 +2,8 @@
 
 <h2 align="center">Willkommen Servus Hello Ciao Salut<br />
 				Salve Hola Konnichiwa Bonjour Namaste</h2>
-<h2 align="center"><a href="https://github.com/GumblCode"><img src="https://readme-typing-svg.demolab.com/?font=Arial&color=E2E1E1&size=45&pause=200&center=true&vCenter=true&width=500&lines=I'm Rainer I am; Web Developer; Web Designer; Solution Architect;" alt=""></a></h2>
+    <h3 align="center">I'm Rainer I am/h3>
+<h2 align="center"><a href="https://github.com/GumblCode"><img src="https://readme-typing-svg.demolab.com/?font=Arial&color=E2E1E1&size=45&pause=200&center=true&vCenter=true&width=500&lines=Web Developer; Web Designer; Solution Architect;" alt=""></a></h2>
 <h3 align="center">I'm from Nürnberg Bavaria, Germany</h3>
 <br>
 <br>
