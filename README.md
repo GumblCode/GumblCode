@@ -73,6 +73,9 @@
 <p align="center">
 <a href="mailto:GumblCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
 </p>
+<br>
+<br>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GumblCode&color=grey&style=flat-square&label=VISITS&base=0" alt="Visits GumbleCode" ></p>
  <br>
 <a align="center" ><img alt="" width="100%" height="150px" src="./assets/footer.jpg"></a>
