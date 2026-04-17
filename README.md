@@ -2,7 +2,7 @@
 
 <h2 align="center">Willkommen Servus Hello Ciao Salut<br />
 				Salve Hola Konnichiwa Bonjour Namaste</h2>
-<h2 align="center">I'm Rainer<br /> I'm from Nürnberg Bavaria, Germany<br />I like my work as)</h2>
+<h2 align="center">I'm Rainer<br /> I'm from Nürnberg Bavaria, Germany<br />I like my work as</h2>
 <h2 style="text-align:center;">
   <a href="https://github.com/GumblCode">
 <div align="center">
@@ -64,7 +64,11 @@
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumblCode&theme=dark&layout=compact&hide_progress=true" alt="used languages" /></a>
     </p>
 <br>
-<p align="center"><a href="https://github.com/GumblCode"><img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true&margin-h10&rank=-?,-C" ></p>
+<p align="center">
+  <a href="https://github.com/GumblCode">
+    <img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true&margin-h=10&rank=-C">
+  </a>
+</p>
 <h2 align="center">You want to connect</h2>
 <p align="center">
 <a href="mailto:GumblCode@gmail.com" target="_blank"><img align="center" src="./assets/At sign.png" alt="" height="60" width="60" /></a>
