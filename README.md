@@ -28,7 +28,6 @@
 <h3 align="center">
 🖥️ I am web developer
 </h3>
-</center>
 <br>
 <br>
 <br>
