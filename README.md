@@ -66,7 +66,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/GumblCode">
-    <img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true&margin-h=10&rank=-C">
+    <img src="https://github-profile-trophy.vercel.app/?username=GumblCode&theme=buddhism&no-bg=true&no-frame=true&margin-h=10&rank=?">
   </a>
 </p>
 <h2 align="center">You want to connect</h2>
