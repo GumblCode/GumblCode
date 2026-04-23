@@ -2,7 +2,7 @@
 
 <h2 align="center">Willkommen Servus Hello Ciao Salut<br />
 				Salve Hola Konnichiwa Bonjour Namaste</h2>
-<h2 align="center">I'm Rainer<br /> I'm from Nürnberg Bavaria, Germany<br />I like my work as</h2>
+<h2 align="center">I'm Rainer<br /> I'm from Germany<br />I like my work as</h2>
 <h2 style="text-align:center;">
   <a href="https://github.com/GumblCode">
 <div align="center">
